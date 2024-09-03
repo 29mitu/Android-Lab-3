@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="btnLabel">Players</string>
+    <string name="defaultText">No option selected ..</string>
+    <string-array name="MenuStringArray">
+        <item>Bangladesh</item>
+        <item>Australia</item>
+        <item>South Africa</item>
+    </string-array>
+</resources>
